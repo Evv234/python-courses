@@ -1,3 +1,6 @@
-print("hello world")
-print("my name is Edhit")
-print("23+33=",23+33)
+print("Welcome to world of programming")
+print(4)
+print("Hello python")
+print("keywords in python")
+import keyword
+print(keyword.kwlist)
